@@ -21,22 +21,22 @@ User experience
 ## Algorithm
 ## 1.Select the technical article "The Basics of Blockchain Technology."
 ## 2.Provide the same article content to different AI platforms:
-ChatGPT
-Gemini
-Claude
-Copilot
+- ChatGPT
+- Google Gemini
+- Claude AI
+- Microsoft Copilot
 ## 3.Apply different prompting techniques:
-Zero-shot prompting
-Few-shot prompting
-Chain-of-thought prompting
-Role-based prompting
+- Zero-shot prompting
+- Few-shot prompting
+- Chain-of-thought prompting
+- Role-based prompting
 ## 4.Generate summaries using each AI platform.
 ## 5.Compare the generated outputs based on:
-Accuracy
-Coherence
-Simplicity
-Response speed
-User experience
+- Accuracy
+- Coherence
+- Simplicity
+- Response speed
+- User experience
 ## 6.Record the observations and identify the best-performing combination.
 ## PROMPTING TECHNIQUES
 ## 1. Zero-Shot Prompting
