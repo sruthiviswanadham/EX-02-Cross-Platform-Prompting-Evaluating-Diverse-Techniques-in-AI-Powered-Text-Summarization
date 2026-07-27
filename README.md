@@ -93,12 +93,24 @@ Each transaction added to a blockchain is verified by network participants throu
 Blockchain technology is the foundation of cryptocurrencies like Bitcoin and Ethereum, but its applications extend beyond digital currencies. It is used in areas such as healthcare, supply chain management, banking, voting systems, and digital identity verification.
 
 In simple terms, blockchain acts like a shared digital ledger that allows people and organizations to securely record, verify, and exchange information without relying on a central authority. Its key benefits include security, transparency, reliability, and reduced chances of fraud.
+### Evaluation
+- Accuracy: High
+- Coherence: Good
+- Simplicity: Excellent
+- Speed: Very Fast
+- User Experience: Excellent
 
 ## 2.CLAUDE+FEW-SHOT PROMPTING
 
 Topic: Blockchain Technology
 
 Summary: Blockchain is a decentralized digital ledger that records transactions across a network of computers in a secure, transparent, and tamper-resistant way. Each block contains a set of transactions and is linked to the previous block, forming a chain — making it difficult to alter past records without changing every subsequent block. It removes the need for a central authority (like a bank) by allowing participants to verify and trust data collectively.
+## Evaluation:
+- Accuracy: Excellent
+- Coherence: Excellent
+- Simplicity: Good
+- Speed: Moderate
+- User Experience: Excellent
 
 ## 3.COPILOT+CHAIN OF THOUGHT PROMPTING
 Blockchain is essentially a decentralized, tamper-proof digital ledger where transactions are grouped into blocks, verified by a network, and permanently linked together. It ensures trust, transparency, and security without needing a central authority, making it vital for cryptocurrencies, supply chains, and secure record-keeping.
@@ -170,6 +182,15 @@ Transparency and security maintained
 
 Simple Summary for Undergraduate Students
 Blockchain is like a shared digital notebook that everyone can see but no one can erase. Each page (block) records transactions, and once written, it’s locked with a unique fingerprint (hash). New pages are added only when everyone in the network agrees they’re valid (consensus). This makes blockchain secure, transparent, and decentralized, useful for cryptocurrencies like Bitcoin, supply chain tracking, and secure digital contracts.
+
+
+## Copilot Evaluation:
+- Accuracy: Good
+- Coherence: Average
+- Simplicity: Good
+- Speed: Very Fast
+- User Experience: Good
+- 
 ## 4.CHATGPT+ROLE-BASED PROMPTING
 The Basics of Blockchain Technology – Summary for Undergraduate Students
 
@@ -192,6 +213,13 @@ Data is stored in connected blocks secured by cryptography.
 Transactions are verified through consensus mechanisms.
 It improves security and transparency.
 It has applications beyond cryptocurrencies in various industries.
+
+### Evaluation
+- Accuracy: High
+- Coherence: Good
+- Simplicity: Excellent
+- Speed: Very Fast
+- User Experience: Excellent
 
 ## COMPARISION TABLE
 
